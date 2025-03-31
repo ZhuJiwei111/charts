@@ -1,1 +1,1 @@
-@import "chart.pdf"
+@import "charts.pdf"
