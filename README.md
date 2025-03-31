@@ -1,4 +1,4 @@
-# charts
+# Charts
 
 ## benchmarks
 
