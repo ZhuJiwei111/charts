@@ -1,7 +1,1 @@
-# Charts
-
-## benchmarks
-
-### GUE
-
-![GUE](GUE.png)
+@import "chart.pdf"
