@@ -1,24 +1,24 @@
 # Charts
 
-## Benchmarks
+## 1 Benchmarks
 
-### GUE
+### 1.1 GUE
 ![GUE](./GUE.png)
 
-### Nucleotide Transformer Downstream Tasks Revised
+### 1.2 Nucleotide Transformer Downstream Tasks Revised
 ![NT](NT.png)
 
-### Genomic Benchmarks
+### 1.3 Genomic Benchmarks
 ![genomic](genomic.png)
 
-### BEND
+### 1.4 BEND
 ![BEND](BEND.png)
 
-## Ablation
+## 2 Ablation
 
-### Ablation on NT
+### 2.1 Ablation on NT
 
 ![aNT](ablation_NT.png)
 
-### Ablation on GUE
+### 2.2 Ablation on GUE
 ![aGUE](ablation_GUE.png)
