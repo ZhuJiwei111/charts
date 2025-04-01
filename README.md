@@ -17,6 +17,7 @@
 ## Ablation
 
 ### Ablation on NT
+
 ![aNT](ablation_NT.png)
 
 ### Ablation on GUE
