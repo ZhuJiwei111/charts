@@ -1,1 +1,6 @@
-![ ](./charts.pdf)
+# Charts
+
+## Benchmarks
+
+### GUE
+![GUE](./GUE.png)
